@@ -33,7 +33,7 @@
 }
 .elementor-27 .elementor-element.elementor-element-3bd57bf9 {
   text-align: center;
-  color: #c11d16;
+  color: #34883b;
   font-family: "Bubblegum Sans", Sans-serif;
   font-size: 143px;
   font-weight: 900;
@@ -47,7 +47,7 @@
 }
 .elementor-27 .elementor-element.elementor-element-7d95a214 {
   text-align: center;
-  color: #c6480b;
+  color: #2c9600;
   font-family: "Bubblegum Sans", Sans-serif;
   font-size: 27px;
   font-weight: 900;
@@ -192,7 +192,7 @@
   letter-spacing: 0px;
   fill: var(--e-global-color-secondary);
   color: var(--e-global-color-secondary);
-  background-color: #c11d16;
+  background-color: #34883b;
   border-style: solid;
   border-width: 3px 3px 3px 3px;
   border-color: var(--e-global-color-secondary);
@@ -205,7 +205,7 @@
 .elementor-27
   .elementor-element.elementor-element-1270b706
   .elementor-button:focus {
-  color: #c6480b;
+  color: #2c9600;
   background-color: var(--e-global-color-secondary);
 }
 .elementor-27
@@ -216,7 +216,7 @@
   .elementor-element.elementor-element-1270b706
   .elementor-button:focus
   svg {
-  fill: #c6480b;
+  fill: #2c9600;
 }
 .elementor-bc-flex-widget
   .elementor-27
@@ -251,7 +251,7 @@
 .elementor-27
   .elementor-element.elementor-element-19a15c5c
   .elementor-social-icon {
-  background-color: #c11d16;
+  background-color: #34883b;
 }
 .elementor-27
   .elementor-element.elementor-element-19a15c5c
@@ -274,13 +274,13 @@
   .elementor-element.elementor-element-19a15c5c
   .elementor-social-icon:hover
   i {
-  color: #c6480b;
+  color: #2c9600;
 }
 .elementor-27
   .elementor-element.elementor-element-19a15c5c
   .elementor-social-icon:hover
   svg {
-  fill: #c6480b;
+  fill: #2c9600;
 }
 .elementor-27 .elementor-element.elementor-element-262b67bf {
   --display: flex;
@@ -311,7 +311,7 @@
   .elementor-element.elementor-element-262b67bf
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-color: #c6480b;
+  background-color: #2c9600;
 }
 .elementor-27 .elementor-element.elementor-element-262b67bf,
 .elementor-27 .elementor-element.elementor-element-262b67bf::before {
@@ -379,7 +379,7 @@
 }
 .elementor-27 .elementor-element.elementor-element-d120242 {
   text-align: center;
-  color: #c11d16;
+  color: #34883b;
   font-family: "Bubblegum Sans", Sans-serif;
   font-size: 110px;
   font-weight: 900;
@@ -492,8 +492,8 @@
   background-color: transparent;
   background-image: linear-gradient(
     180deg,
-    #c6480b 0%,
-    #c11d16 100%
+    #2c9600 0%,
+    #34883b 100%
   );
 }
 .elementor-27
@@ -585,8 +585,8 @@
   background-color: transparent;
   background-image: linear-gradient(
     180deg,
-    #c6480b 0%,
-    #c11d16 100%
+    #2c9600 0%,
+    #34883b 100%
   );
 }
 .elementor-27
@@ -660,7 +660,7 @@
   letter-spacing: 0px;
   fill: var(--e-global-color-secondary);
   color: var(--e-global-color-secondary);
-  background-color: #c11d16;
+  background-color: #34883b;
   border-style: solid;
   border-width: 3px 3px 3px 3px;
   border-color: var(--e-global-color-secondary);
@@ -714,8 +714,8 @@
   background-color: transparent;
   background-image: linear-gradient(
     180deg,
-    #c6480b 0%,
-    #c11d16 100%
+    #2c9600 0%,
+    #34883b 100%
   );
 }
 .elementor-27
@@ -807,8 +807,8 @@
   background-color: transparent;
   background-image: linear-gradient(
     180deg,
-    #c6480b 0%,
-    #c11d16 100%
+    #2c9600 0%,
+    #34883b 100%
   );
 }
 .elementor-27
@@ -895,8 +895,8 @@
   background-color: transparent;
   background-image: linear-gradient(
     180deg,
-    #c6480b 0%,
-    #c11d16 100%
+    #2c9600 0%,
+    #34883b 100%
   );
 }
 .elementor-27
@@ -970,7 +970,7 @@
   letter-spacing: 0px;
   fill: #ffffff;
   color: #ffffff;
-  background-color: #c6480b;
+  background-color: #2c9600;
   border-style: solid;
   border-width: 3px 3px 3px 3px;
   border-color: #ffffff;
@@ -1056,8 +1056,8 @@
   background-color: transparent;
   background-image: linear-gradient(
     180deg,
-    #c6480b 0%,
-    #c11d16 100%
+    #2c9600 0%,
+    #34883b 100%
   );
   border-style: solid;
   border-width: 3px 3px 3px 3px;
@@ -1149,8 +1149,8 @@
   background-color: transparent;
   background-image: linear-gradient(
     180deg,
-    #c11d16 0%,
-    #c6480b 100%
+    #34883b 0%,
+    #2c9600 100%
   );
 }
 .elementor-27
@@ -1241,8 +1241,8 @@
   background-color: transparent;
   background-image: linear-gradient(
     180deg,
-    #c11d16 0%,
-    #c6480b 100%
+    #34883b 0%,
+    #2c9600 100%
   );
 }
 .elementor-27
@@ -1334,8 +1334,8 @@
   background-color: transparent;
   background-image: linear-gradient(
     180deg,
-    #c11d16 0%,
-    #c6480b 100%
+    #34883b 0%,
+    #2c9600 100%
   );
 }
 .elementor-27
@@ -1477,8 +1477,8 @@
   background-color: transparent;
   background-image: linear-gradient(
     180deg,
-    #c6480b 0%,
-    #c11d16 100%
+    #2c9600 0%,
+    #34883b 100%
   );
 }
 .elementor-27 .elementor-element.elementor-element-0281c6a {
@@ -1638,8 +1638,8 @@
   background-color: transparent;
   background-image: linear-gradient(
     180deg,
-    #c6480b 0%,
-    #c11d16 100%
+    #2c9600 0%,
+    #34883b 100%
   );
 }
 .elementor-27 .elementor-element.elementor-element-401ab98 {
@@ -1799,8 +1799,8 @@
   background-color: transparent;
   background-image: linear-gradient(
     180deg,
-    #c6480b 0%,
-    #c11d16 100%
+    #2c9600 0%,
+    #34883b 100%
   );
 }
 .elementor-27 .elementor-element.elementor-element-88dddcf {
@@ -1960,8 +1960,8 @@
   background-color: transparent;
   background-image: linear-gradient(
     180deg,
-    #c6480b 0%,
-    #c11d16 100%
+    #2c9600 0%,
+    #34883b 100%
   );
 }
 .elementor-27 .elementor-element.elementor-element-cfc9d52 {
@@ -2220,8 +2220,8 @@
   background-color: transparent;
   background-image: linear-gradient(
     180deg,
-    #c11d16 0%,
-    #c6480b 100%
+    #34883b 0%,
+    #2c9600 100%
   );
 }
 .elementor-27
@@ -2308,13 +2308,13 @@
   .elementor-element.elementor-element-fdb467a
   .elementor-social-icon
   i {
-  color: #c6480b;
+  color: #2c9600;
 }
 .elementor-27
   .elementor-element.elementor-element-fdb467a
   .elementor-social-icon
   svg {
-  fill: #c6480b;
+  fill: #2c9600;
 }
 .elementor-27 .elementor-element.elementor-element-fdb467a .elementor-icon {
   border-radius: 444px 444px 444px 444px;
@@ -2354,7 +2354,7 @@
 }
 .elementor-27 .elementor-element.elementor-element-de42fce img {
   border-style: solid;
-  border-color: #c11d16;
+  border-color: #34883b;
   border-radius: 25px 25px 25px 25px;
 }
 .elementor-27
@@ -2378,7 +2378,7 @@
 }
 .elementor-27 .elementor-element.elementor-element-4e2460d9 {
   text-align: center;
-  color: #c6480b;
+  color: #2c9600;
   font-family: "Bubblegum Sans", Sans-serif;
   font-size: 25px;
   font-weight: 900;
@@ -2412,13 +2412,13 @@
   .elementor-element.elementor-element-5f6e8a53
   .elementor-social-icon
   i {
-  color: #c6480b;
+  color: #2c9600;
 }
 .elementor-27
   .elementor-element.elementor-element-5f6e8a53
   .elementor-social-icon
   svg {
-  fill: #c6480b;
+  fill: #2c9600;
 }
 .elementor-27 .elementor-element.elementor-element-1e5ab6d5 {
   padding: 0px 0px 0px 0px;
@@ -2473,7 +2473,7 @@
   letter-spacing: 0px;
   fill: var(--e-global-color-secondary);
   color: var(--e-global-color-secondary);
-  background-color: #c6480b;
+  background-color: #2c9600;
   border-style: solid;
   border-width: 3px 3px 3px 3px;
   border-color: #ffffff;
@@ -2482,7 +2482,7 @@
 }
 .elementor-27 .elementor-element.elementor-element-f9ac48d {
   text-align: center;
-  color: #c11d16;
+  color: #34883b;
   font-family: "Bubblegum Sans", Sans-serif;
   font-size: 19px;
   font-weight: 700;
